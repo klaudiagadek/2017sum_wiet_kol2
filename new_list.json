@@ -1,0 +1,178 @@
+{
+    "children": [
+        {
+            "Angielski": [
+                2,
+                5,
+                6
+            ],
+            "Biologia": [
+                2,
+                2,
+                2
+            ],
+            "Chemia": [
+                3,
+                3,
+                3
+            ],
+            "Fizyka": [
+                4,
+                4,
+                4
+            ],
+            "Geografia": [
+                2,
+                3,
+                3
+            ],
+            "Historia": [
+                2,
+                4,
+                6
+            ],
+            "Matmematyka": [],
+            "Polski": [
+                4,
+                3,
+                6
+            ],
+            "attendance": 6,
+            "name": "Anna Nowak"
+        },
+        {
+            "Angielski": [
+                2,
+                2,
+                6
+            ],
+            "Biologia": [
+                2,
+                2,
+                2
+            ],
+            "Chemia": [
+                3,
+                3,
+                3
+            ],
+            "Fizyka": [
+                4,
+                4,
+                4
+            ],
+            "Geografia": [
+                2,
+                4,
+                3
+            ],
+            "Historia": [
+                2,
+                4,
+                6
+            ],
+            "Matmematyka": [
+                1,
+                3,
+                4
+            ],
+            "Polski": [
+                4,
+                2,
+                6
+            ],
+            "attendance": 8,
+            "name": "Jacek Kowalski"
+        },
+        {
+            "Angielski": [
+                2,
+                6,
+                6
+            ],
+            "Biologia": [
+                2,
+                2,
+                2
+            ],
+            "Chemia": [
+                3,
+                3,
+                3
+            ],
+            "Fizyka": [
+                4,
+                4,
+                4
+            ],
+            "Geografia": [
+                2,
+                5,
+                3
+            ],
+            "Historia": [
+                2,
+                4,
+                6
+            ],
+            "Matmematyka": [
+                5,
+                2
+            ],
+            "Polski": [
+                4,
+                1,
+                6
+            ],
+            "attendance": 10,
+            "name": "Anna Kowalska"
+        },
+        {
+            "Angielski": [
+                1
+            ],
+            "Biologia": [
+                4,
+                5,
+                2
+            ],
+            "Chemia": [
+                4
+            ],
+            "Fizyka": [
+                4
+            ],
+            "Geografia": [
+                4
+            ],
+            "Historia": [
+                2,
+                3,
+                4
+            ],
+            "Matmematyka": [
+                4,
+                5,
+                5
+            ],
+            "Polski": [
+                6,
+                3,
+                4
+            ],
+            "attendance": 4,
+            "name": "Jan Nowak"
+        }
+    ],
+    "name": "3C Diary",
+    "subjects": [
+        "Matmematyka",
+        "Polski",
+        "Angielski",
+        "Historia",
+        "Biologia",
+        "Chemia",
+        "Fizyka",
+        "Geografia"
+    ]
+}
